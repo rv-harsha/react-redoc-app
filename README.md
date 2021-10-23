@@ -1,8 +1,8 @@
 # ReDoc 
 
-Intuitive API Documentation with Redoc. For a quick demo of generated documentation from the swagger specification, click [here](https://github.com/facebook/create-react-app). 
+Intuitive API Documentation with Redoc. For a quick demo of generated documentation from the swagger specification, click [here](https://htmlpreview.github.io/?https://github.com/rv-harsha/react-redoc-app/blob/main/redoc-static.html). 
 
-This project was bootstrapped with [Create React App](https://htmlpreview.github.io/?hhttps://github.com/rv-harsha/react-redoc-app/blob/main/redoc-static.html).
+This project was bootstrapped with [Create React App]().
 
 ## Available Scripts
 
